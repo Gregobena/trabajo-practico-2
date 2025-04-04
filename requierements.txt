@@ -1,0 +1,9 @@
+modulos a importar 
+string
+datetime
+random 
+funciones.py 
+sys
+os
+codecs
+this 
